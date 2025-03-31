@@ -1,0 +1,1 @@
+Alright, let's M2E earning from walking where Green Satoshi Tokens (GSAT) based on those steps can be converted / and transfered. It also integrates with Firebase for data storage and Web3 for token transfers. I'll go through it step by step to understand how it works and identify any potential issues or improvements.
