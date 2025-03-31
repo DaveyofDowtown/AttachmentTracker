@@ -1,0 +1,42 @@
+{
+          "name": "attachment-tracker",
+          "version": "0.1.0",
+          "private": true,
+          "scripts": {
+                    "dev": "vite",
+                    "build": "tsc && vite build",
+                    "preview": "vite preview"
+          },
+          "dependencies": {
+                    "react": "^18.2.0",
+                    "react-dom": "^18.2.0",
+                    "@radix-ui/react-slot": "^1.0.2",
+                    "@radix-ui/react-label": "^2.0.2",
+                    "@radix-ui/react-select": "^2.0.0",
+                    "@radix-ui/react-slider": "^1.1.2",
+                    "class-variance-authority": "^0.7.0",
+                    "lucide-react": "^0.263.1"
+          },
+          "devDependencies": {
+                    "vite": "^4.4.5",
+                    "@vitejs/plugin-react": "^4.0.3",
+                    "tsx": "^3.12.7",
+                    "typescript": "^5.0.2",
+                    "tailwindcss": "^3.3.3",
+                    "postcss": "^8.4.27",
+                    "autoprefixer": "^10.4.14"
+          },
+          "main": "postcss.config.js",
+          "repository": {
+                    "type": "git",
+                    "url": "git+https://github.com/DaveyofDowntown/AttachmentTracker.git"
+          },
+          "keywords": [],
+          "author": "",
+          "license": "ISC",
+          "bugs": {
+                    "url": "https://github.com/DaveyofDowntown/AttachmentTracker/issues"
+          },
+          "homepage": "https://github.com/DaveyofDowntown/AttachmentTracker#readme",
+          "description": ""
+}
